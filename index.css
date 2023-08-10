@@ -1,0 +1,479 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+.box1 {
+    width: 1228px;
+    height: 279.44px;
+    position: relative;
+    padding: 0 60px;
+}
+
+.box1 .box11 {
+    width: 1178px;
+    height: 279.44px;
+    padding: 0 25px;
+}
+
+.box1 .box11 .box111 {
+    width: 1178px;
+    height: 154.44px;
+    padding: 30px 0;
+}
+
+.box1 .box11 .box111 img {
+    width: 77.7px;
+    height: 65px;
+    position: relative;
+    top: 0;
+    left: 589px;
+    margin-left: -38.85px;
+}
+
+.box1 .box11 .box111 .box1112 {
+    /* width: 211px;
+    height: 62.44px; */
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.box1 .box11 .box111 .box1113 {
+    width: 211px;
+    height: 28px;
+    font-size: 16px;
+    font-family: yahei;
+    text-align: center;
+}
+
+.box1 .box11 .box112 {
+    width: 1203px;
+    height: 64px;
+    margin: 0 -25px 0 0 auto;
+}
+
+.box1 .box11 .box112 .liuyi {
+    width: 513px;
+    height: 64px;
+    margin: 0 auto;
+}
+
+.box1 .box11 .box112 ul li {
+    float: left;
+    text-align: center;
+    list-style: none;
+    line-height: 64px;
+    border-top: 1px solid black;
+    display: block;
+    color: black;
+}
+
+.box1 .box11 .box112 ul li .shouye {
+    width: 66px;
+    height: 64px;
+    float: left;
+}
+
+.box1 .box11 .box112 ul li .meiri {
+    width: 109px;
+    height: 64px;
+    float: left;
+}
+
+.box1 .box11 .box112 ul li .wenzhang {
+    width: 109px;
+    height: 64px;
+    float: left;
+}
+
+.box1 .box11 .box112 ul li .guanyu {
+    width: 92px;
+    height: 64px;
+    float: left;
+}
+
+.box1 .box11 .box112 ul li .zhuce {
+    width: 66px;
+    height: 64px;
+    float: left;
+}
+
+.box1 .box11 .box112 ul li .denglu {
+    width: 66px;
+    height: 64px;
+    float: left;
+}
+
+.box1 .box11 .box112 ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.box2 {
+    width: 1140px;
+    height: 880.97px;
+    padding: 280px 104px;
+    margin: 0 auto;
+}
+
+.box2 .box20 {
+    width: 1120px;
+    height: 860.97px;
+    padding: 10px;
+}
+
+.box21 {
+    width: 1120px;
+    height: 730.27px;
+    margin-top: 5px;
+    /* background-color: pink; */
+}
+
+.box21 .box211 {
+    width: 360px;
+    height: 368.78px;
+    border: 1px solid black;
+    float: left;
+    margin-bottom: 16px;
+    margin-right: 10px;
+}
+
+.box21 .box211 .box2111 img {
+    width: 360px;
+    height: 237.59px;
+}
+
+.box21 .box211 .xini {
+    width: 300px;
+    height: 37.3px;
+    line-height: 25px;
+    font-size: 21px;
+    font-family: sans-serif;
+    padding: 0 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.box21 .box211 .riqi1 {
+    width: 300px;
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+
+.box200 {
+    width: 1120px;
+    height: 26px;
+    line-height: 26px;
+    font-family: sans-serif;
+    padding: 20px 0;
+}
+
+.box200 hr {
+    position: relative;
+    top: 8px;
+}
+
+.box21 .box212 {
+    width: 360px;
+    height: 341.48px;
+    /* background-color: rgb(158, 84, 109); */
+    border: 1px solid black;
+    float: left;
+    margin-right: 10px;
+}
+
+.box21 .box212 .box2121 img {
+    width: 360px;
+    height: 237.59px;
+}
+
+.box21 .box212 .xingyun {
+    width: 300px;
+    height: 27.3px;
+    line-height: 25px;
+    font-size: 21px;
+    font-family: sans-serif;
+    padding: 0 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.box21 .box212 .riqi1 {
+    width: 300px;
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+
+.box3 {
+    width: 1140px;
+    height: 443.91px;
+    padding: 0 104px;
+}
+
+.box3 .box30 {
+    width: 1120px;
+    height: 423.91px;
+    padding: 10px;
+}
+
+.box3 .box30 .box31 {
+    width: 540px;
+    height: 353.91px;
+    padding: 10px;
+    float: left;
+}
+
+.box3 .box30 .box31 .tou1 {
+    font-size: 26px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.box3 .box30 .box31 .new {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.box3 .box30 .box31 .riqi2 {
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 0 0 10px;
+}
+
+.box3 .box30 .box32 {
+    width: 540px;
+    height: 353.91px;
+    padding: 10px;
+    float: left;
+}
+
+.box3 .box30 .box32 .tou1 {
+    font-size: 26px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.box3 .box30 .box32 .new {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.box3 .box30 .box32 .riqi2 {
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 0 0 10px;
+}
+
+.box3 .box30 .box33 {
+    width: 1120px;
+    height: 50px;
+    float: left;
+}
+
+.box4 {
+    width: 1140px;
+    height: 880.97px;
+    padding: 0 104px;
+    margin: 0 auto;
+}
+
+.box4 .box40 {
+    width: 1120px;
+    height: 858.27px;
+    padding: 10px;
+}
+
+.box4 .box40 .box22 {
+    width: 1120px;
+    height: 50px;
+    float: left;
+}
+
+.box21 .box212 {
+    width: 360px;
+    height: 341.48px;
+    /* background-color: rgb(158, 84, 109); */
+    border: 1px solid black;
+    float: left;
+    margin-right: 10px;
+}
+
+.xi {
+    width: 300px;
+    height: 27.3px;
+    line-height: 25px;
+    font-size: 21px;
+    font-family: sans-serif;
+    padding: 0 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.box5 {
+    width: 1140px;
+    height: 880.97px;
+    padding: 0 104px;
+    margin: 0 auto;
+}
+
+/* 悉尼歌剧院大字部分空袭太大 */
+.box6 {
+    width: 1140px;
+    height: 467.3px;
+}
+
+.box7 {
+    width: 1140px;
+    height: 48px;
+    padding: 0 104px;
+}
+
+.box7 .box70 {
+    width: 1120px;
+    height: 26px;
+    padding: 10px;
+    font-family: sans-serif;
+    line-height: 26px;
+}
+
+.box8 {
+    width: 1140px;
+    height: 300px;
+    padding: 0 104px;
+}
+
+.box8 .box80 {
+    width: 1120px;
+    height: 280px;
+    padding: 10px;
+}
+
+.box9 {
+    height: 400px;
+    background-color: black;
+}
+.box90{
+    width: 1903px;
+    height: 150px;
+    border-bottom: 1px solid #272727;
+}
+.box91{
+    width: 1440px;
+    height: 150px;
+    margin: 0 auto;
+}
+.box911{
+    width: 359.25px;
+    height: 150px;
+    float: left;
+    border-right: 1px solid #272727;
+}
+.box912{
+    width: 359.25px;
+    height: 150px;
+    float: left;
+}
+.box9111{
+    width: 359.25px;
+    height: 92px;
+    padding: 32px 0;
+    position: relative;
+}
+.xiangji{
+    width: 359.25px;
+    height: 46px;
+    background: url(./images/23.jpg) no-repeat center;
+}
+.xiangji1{
+    width: 359.25px;
+    height: 46px;
+    background: url(./images/24.jpg) no-repeat center;
+}
+.xiangji2{
+    width: 359.25px;
+    height: 46px;
+    background: url(./images/25.jpg) no-repeat center;
+}
+.xiangji3{
+    width: 359.25px;
+    height: 46px;
+    background: url(./images/26.jpg) no-repeat center;
+}
+.dujia{
+    width: 359.25px;
+    height: 14px;
+    margin: 14px 0 0;
+    color: #FFFFFFE6;
+    font-size: 12px;
+    text-align: center;
+}
+.dujia2{
+    width: 359.25px;
+    height: 14px;
+    margin: 4px 0 0;
+    color: #FFFFFF80;
+    font-size: 12px;
+    text-align: center;
+}
+.box92{
+    width: 1280px;
+    height: 149.91px;
+    margin: 0 311.5px;
+    padding: 58px 0;
+}
+.box92 ul{
+    padding-right: 150px;
+    float: left;
+    list-style: none;
+}
+.box92 ul li a{
+    color: #ffffffcc;
+    line-height: 28px;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: "Singulier-Regular", "Helvetica","PingFangSC-Regular","Arial","Times New Roman","微软雅黑","Microsoft YaHei",sans-serif;
+}
+.biaotou{
+    color: #ffffffcc;
+    font-size: 14px;
+    line-height: 40px;
+    font-family: "Singulier-Regular", "Helvetica","PingFangSC-Regular","Arial","Times New Roman","微软雅黑","Microsoft YaHei",sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+.box93{
+    border-top: 1px solid #272727;
+    width: 1280px;
+    height: 48px;
+    padding: 40px 0 70px;
+    margin: 0 auto;
+}
+.box93 p{
+    float: left;
+    font-size: 12px;
+    font-family: "Singulier-Regular", "Helvetica","PingFangSC-Regular","Arial","Times New Roman","微软雅黑","Microsoft YaHei",sans-serif;
+    line-height: 12px;
+    color: #ffffff4d;
+}
+.bottom{
+    float: left;
+    width: 1280px;
+    height: 20px;
+    margin: 16px 0 0;
+}
+.oly,.gongshang,.hu,.cookies{
+    margin-right: 30px;
+}
+.hu2{
+    margin-right: 250px;
+}
